@@ -6,7 +6,7 @@
 
 ## English
 
-**Fried eggs, cooked with AI.**
+**Eggsperiments, cooked with AI.**
 
 A kitchen for small projects built together with AI: quick to make, useful right away,
 and shared as they are.
@@ -33,7 +33,7 @@ and shared as they are.
 
 ## Русский
 
-**Яишенки, приготовленные с ИИ.**
+**ИИшенки, приготовленные с AI.**
 
 Кухня для небольших проектов, сделанных вместе с ИИ: готовятся быстро,
 пользу приносят сразу, выкладываются как есть.
@@ -53,4 +53,3 @@ and shared as they are.
 - Issues и pull requests приветствуются, но вкусы у всех разные, а время и менталка
   дороже любого рецепта. Ответы и слияния — когда у повара есть настроение.
   Форкнуть и посолить по своему вкусу можно всегда.
-  
